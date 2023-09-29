@@ -36,8 +36,8 @@ let salario = (parseInt(horas)*parseInt(baseSal))
 alert ("seu salario esse mes é"+salario)*/
 
 
-let distancia = prompt("qual distancia percorrida")
+/*let distancia = prompt("qual distancia percorrida")
 let combustivel = prompt("litragem")
 let final = (parseFloat(distancia)/parseFloat(combustivel))
-alert  ("distancia percorrida é" +final)
+alert  ("distancia percorrida é" +final)*/
 
